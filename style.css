@@ -1,6 +1,40 @@
 p{
     color: #392F5A;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lora', serif;
 }
 table:hover {
+    color: #F4D06F;
+    
+}
+table, form, button {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lora', serif;
+    background-color: #fff8f0;
+}
+
+h1, h2
+{
+    font-family: 'Anton', sans-serif;
+}
+span{background-color:#9DD9D2; 
+}
+.white{
+    color:#fff8f0;
+}
+.orange{
+    color:#FF8811;
+}
+.green{
+    color:#9DD9D2;
+}
+.purple{
+    color:#392F5A
+}
+button{
+    color:#fff8f0;
+    background-color: #392F5A;
+}
+button:hover {
     color:#9DD9D2
 }
