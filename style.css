@@ -3,16 +3,22 @@ p{
     font-family: 'Anton', sans-serif;
     font-family: 'Lora', serif;
 }
+h2:hover{
+    color:#9DD9D2;
+}
 table:hover {
     color: #F4D06F;
     
 }
-table, form, button {
+table, button {
     font-family: 'Anton', sans-serif;
     font-family: 'Lora', serif;
-    background-color: #fff8f0;
+    background-color: #392F5A;
 }
-
+form {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lora', serif;
+}
 h1, h2
 {
     font-family: 'Anton', sans-serif;
