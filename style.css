@@ -1,11 +1,9 @@
 p{
-    color: #392F5A;
+    color: #0B2027;
     font-family: 'Anton', sans-serif;
     font-family: 'Lora', serif;
 }
-h2:hover{
-    color:#9DD9D2;
-}
+
 table:hover {
     color: #F4D06F;
     
@@ -13,7 +11,6 @@ table:hover {
 table, button {
     font-family: 'Anton', sans-serif;
     font-family: 'Lora', serif;
-    background-color: #392F5A;
 }
 form {
     font-family: 'Anton', sans-serif;
@@ -23,24 +20,24 @@ h1, h2
 {
     font-family: 'Anton', sans-serif;
 }
-span{background-color:#9DD9D2; 
+span{background-color:#FFE8D6; 
 }
 .white{
-    color:#fff8f0;
+    color:#FFE8D6;
 }
 .orange{
-    color:#FF8811;
+    color:#CB997E;
 }
 .green{
-    color:#9DD9D2;
+    color:#0B2027;
 }
 .purple{
-    color:#392F5A
+    color:#6B705C;
 }
 button{
     color:#fff8f0;
-    background-color: #392F5A;
+    background-color: #6B705C;
 }
 button:hover {
-    color:#9DD9D2
+    color:#CB997E
 }
